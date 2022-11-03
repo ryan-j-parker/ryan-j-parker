@@ -10,6 +10,8 @@ My current tech stack:
 **Tools:** Discord, Gimp 2.0, Git, GitHub, Miro, Netlify, npm, Slack, Zoom
 **Skills:** written communication, creative problem-solving, collaborative development, deep research
 
-twitter.com/ryanparkerdev
-linkedin.com/in/ryanparkerdev
+https://twitter.com/ryanparkerdev
+
+https://linkedin.com/in/ryanparkerdev
+
 https://ryanparker.io
