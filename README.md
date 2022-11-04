@@ -5,18 +5,20 @@ I'm currently a student at Alchemy in PDX, learning full-stack software developm
 
 My current tech stack:
 
-**Languages:** JavaScript, HTML, CSS**
+**Languages:** JavaScript, HTML, CSS
 
-**Frameworks/libraries:** React, Three.js, React Three Fiber, Express
+**Frameworks/libraries:** React, Three.js, Express, React Three Fiber
 
 **Database:** Supabase, PostgresSQL
 
-**Tools:** Discord, Gimp 2.0, Git, GitHub, Miro, Netlify, npm, Slack, Zoom
+**Tools:** Beekeeper, Discord, Gimp 2.0, Git, GitHub, Miro, Netlify, npm, Slack, Zoom
 
-**Skills:** written communication, creative problem-solving, collaborative development, deep research
+**Skills:** written communication, creative problem-solving, collaborative development, TDD
 
-https://twitter.com/ryanparkerdev
+
 
 https://linkedin.com/in/ryanparkerdev
+
+https://twitter.com/ryanparkerdev
 
 https://ryanparker.io
