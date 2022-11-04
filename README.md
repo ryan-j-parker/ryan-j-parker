@@ -16,12 +16,10 @@ My current tech stack:
 **Skills:** written communication, creative problem-solving, collaborative development, TDD
 
 
+[![linkedin-icon](https://user-images.githubusercontent.com/107072854/200044609-2cc55c49-496b-48c1-a560-cbaeadcc4530.png)][1]
+[![twitter-icon](https://user-images.githubusercontent.com/107072854/200044561-c5286622-5e72-4139-9c64-fd8e673b8bcf.png)][2]
+[![web-icon](https://user-images.githubusercontent.com/107072854/200044540-28e134c7-2b27-45b8-be8b-09a448eead3c.png)][3]
 
-[![linkedin-icon](https://user-images.githubusercontent.com/107072854/200043229-997fb487-d07f-4199-934b-f5bf0588f652.png)][1]
-
-[![twitter-icon](https://user-images.githubusercontent.com/107072854/200043279-a9f0042e-1e4f-4e16-a872-82cc512a70d8.png)][2]
-
-[![web-icon](https://user-images.githubusercontent.com/107072854/200041669-f08cd79f-a70d-4721-876c-dba128d4218d.png)][3]
 
 [1]: https://linkedin.com/in/ryanparkerdev
 [2]: https://twitter.com/ryanparkerdev
