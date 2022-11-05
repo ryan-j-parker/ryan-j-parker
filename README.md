@@ -22,3 +22,6 @@ My current tech stack:
 [1]: https://linkedin.com/in/ryanparkerdev
 [2]: https://twitter.com/ryanparkerdev
 [3]: https://ryanparker.io
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
