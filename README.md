@@ -24,4 +24,10 @@ My current tech stack:
 [3]: https://ryanparker.io
 
 <!--START_SECTION:waka-->
+
+```text
+SQL          2 mins          █████████████████░░░░░░░░   67.82 %
+JavaScript   1 min           ████████░░░░░░░░░░░░░░░░░   32.18 %
+```
+
 <!--END_SECTION:waka-->
