@@ -26,8 +26,11 @@ My current tech stack:
 <!--START_SECTION:waka-->
 
 ```text
-SQL          2 mins          █████████████████░░░░░░░░   67.82 %
-JavaScript   1 min           ████████░░░░░░░░░░░░░░░░░   32.18 %
+JavaScript   1 hr 56 mins    ██████████████████████▓░░   90.39 %
+HTML         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
