@@ -74,7 +74,7 @@ February 2022</em></p>
 <div display="inline-block" margin="10px" padding="20px" align="center" width="50%">
     <a href="https://linkedin.com/in/ryanparkerdev"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" align="center" height="40px" width="auto" /></a>
     <a href="https://twitter.com/ryanparkerdev"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="left" height="40px" width="auto" /></a>
-    <a href="https://ryanparker.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=Prometheus&logoColor=#FF7139" align="right" height="40px" width="auto" /></a>
+    <a href="https://ryanparker.io"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=React&logoColor=#FF7139" align="right" height="40px" width="auto" /></a>
 </div>
 <p>&nbsp;</p>
    
