@@ -4,7 +4,7 @@
 February 2022</em></p>
 <h3><code font-size="4" align="left">Hi! 👋</code></h3>
     <h3><code align="left">My name is</code></h3>
-        <a href="https://ryanparker.io"><h1><img src="https://img.shields.io/badge/Ryan Parker.-%23000000.svg?style=for-the-badge&logo=none&logoColor=#FF7139" align="left" height="70px" width="auto" /></h1></a>
+        <a href="https://ryanparker.io"><h1><img src="https://img.shields.io/badge/Ryan Parker.-%A29B1D20.svg?style=for-the-badge&logo=none&logoColor=#9B1D20" align="left" height="70px" width="auto" /></h1></a>
         <h2></h2>
 <p>&nbsp;</p>
     
@@ -17,7 +17,7 @@ February 2022</em></p>
 <h3>I'll be graduating February 2023 with 1000+ hours of instruction and experience. ✅</h3>
 </div>
 
-<p align="left"><b>❤️ Mouse</b></p>
+<p align="left"><code><b>❤️ Mouse</b></code></p>
 <img src="https://user-images.githubusercontent.com/107072854/212574463-f7f88931-0928-4b18-83f0-8ba02446e2aa.jpg" height="300" width="auto" align="left" margin-right="10px" margin-left="10px" />
 <h3 margin="100px" float="right" clear="both">
 <code>You can usually find me at my desk, writing code with my pal Mouse. I spend a lot of time building apps with <b>React Three Fiber</b>, and I've recently begun a deep dive into 3D game development using the Rapier physics library.</code>
@@ -37,7 +37,8 @@ February 2022</em></p>
 <p>&nbsp;</p>
 
 <p align="right"><em><a href="https://idyllic-frangollo-1ec6ab.netlify.app">Play my Marble Ninja Warrior game!</a></em></p>
-<a href="https://idyllic-frangollo-1ec6ab.netlify.app"><img src="https://user-images.githubusercontent.com/107072854/213977380-395820a2-e6f6-47cf-8faf-8a8c42048fd8.png" align="right" width="40%" height="auto" border-radius="10%"/></a>
+<a href="https://idyllic-frangollo-1ec6ab.netlify.app"><img src="https://user-images.githubusercontent.com/107072854/213977380-395820a2-e6f6-47cf-8faf-8a8c42048fd8.png" align="right" width="45%" height="auto" border-radius="10%"/></a>
+<p>&nbsp;</p>
 <div width="20%" align="left">
     <h3><code><b>Skills and traits:</b></code></h3>
 <h4>
