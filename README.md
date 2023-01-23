@@ -13,7 +13,7 @@ February 2022</em></p>
 <h3>I'm a full-stack creative software developer living in Vancouver, WA. <img src="https://user-images.githubusercontent.com/107072854/213970009-ba2860fd-5dcc-4162-93fb-9f6db65f2598.png" height="20px" width="auto" />
  </h3>
 
-<h3>I'm currently a student at Alchemy in PDX, learning full-stack software development. 🧑🏻‍💻</h3>
+<h3>I'm currently a student at Alchemy in PDX, learning all aspects of software development. 🧑🏻‍💻</h3>
 <h3>I'll be graduating February 2023 with 1000+ hours of instruction and experience. ✅</h3>
 </div>
 
@@ -22,7 +22,7 @@ February 2022</em></p>
 <h3 margin="100px" float="right" clear="both">
 <code>You can usually find me at my desk, writing code with my pal Mouse. I spend a lot of time building apps with <b>React Three Fiber</b>, and I've recently begun a deep dive into 3D game development using the Rapier physics library.</code>
 <p>&nbsp;</p>
-<code>After Alchemy, I'll be pursuing a role as a full stack, front-end, or game developer. I hope to be able to use my Three.js skills in my position, and will continune to build my skills in my free time. When I'm not building web applications, you can usually find me reading, playing pool, target shooting, or riding my bike.</code></h3>
+<code>After Alchemy, I'll be pursuing a role as a full stack, front-end, or game developer. I hope to be able to use my Three.js skills in my position, and will continue to build my skills in my free time. When I'm not building web applications, you can usually find me reading, playing pool, target shooting, or riding my bike.</code></h3>
 
 <p>&nbsp;</p>
 
