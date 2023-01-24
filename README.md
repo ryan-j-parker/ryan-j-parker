@@ -1,5 +1,5 @@
 <img src="/guatemala-header-4x1.png" height="auto" align="left" width="100%">
-<p align="right" padding="0 30px 0 0"><em><b>San Marcos la Laguna, Guatemala</b>
+<p align="right" padding="0 30px 0 0"><em><b>Volcán San Pedro and Lake Atitlán <br /> Panajachel, Sololá, Guatemala</b>
 <br />
 February 2022</em></p>
 <h3><code font-size="4" align="left">Hi! 👋</code></h3>
