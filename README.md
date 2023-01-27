@@ -20,7 +20,7 @@ February 2022</em></p>
 <p align="left"><code><b>❤️ Mouse</b></code></p>
 <img src="https://user-images.githubusercontent.com/107072854/212574463-f7f88931-0928-4b18-83f0-8ba02446e2aa.jpg" height="300" width="auto" align="left" margin-right="10px" margin-left="10px" />
 <h3 margin="100px" float="right" clear="both">
-<code>You can usually find me at my desk, writing code with my pal Mouse. I spend a lot of time building apps with <b>React Three Fiber</b>, and I've recently begun a deep dive into 3D game development using the Rapier physics library.</code>
+<code>You can usually find me at my desk writing code, with Mouse on her bed beside me. I spend a lot of time building apps with <b>React Three Fiber</b>, and I've recently begun a deep dive into 3D game development using the Rapier physics library.</code>
 <p>&nbsp;</p>
 <code>After Alchemy, I'll be pursuing a role as a full stack, front-end, or game developer. I hope to be able to use my Three.js skills in my position, and will continue to build my skills in my free time. When I'm not building web applications, you can usually find me reading, playing pool, target shooting, or riding my bike.</code></h3>
 
