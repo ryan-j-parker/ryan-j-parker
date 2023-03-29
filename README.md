@@ -1,7 +1,9 @@
 <img src="/guatemala-header-4x1.png" height="auto" align="left" width="100%">
-<p align="right" padding="0 30px 0 0"><em><b>Volcán San Pedro and Lake Atitlán <br /> Panajachel, Sololá, Guatemala</b>
+<p align="right" padding="0 30px 0 0"><em><b>Looking south across Lake Atitlán towards Volcán San Pedro<br /> Panajachel, Guatemala</b>
 <br />
-February 2022</em></p>
+Taken by me, February 2022</em></p>
+<img src="https://user-images.githubusercontent.com/107072854/228424400-5563fc34-b1c6-4ae6-9a84-afe8fa64d6bf.jpg" align="right" height="400px" width="auto" />
+
 <h3><code font-size="4" align="left">Hi! 👋</code></h3>
     <h3><code align="left">My name is</code></h3>
         <a href="https://ryanparker.io"><h1><img src="https://img.shields.io/badge/Ryan Parker.-%A29B1D20.svg?style=for-the-badge&logo=none&logoColor=#9B1D20" align="left" height="70px" width="auto" /></h1></a>
@@ -13,16 +15,17 @@ February 2022</em></p>
 <h3>I'm a full-stack creative software developer living in Vancouver, WA. <img src="https://user-images.githubusercontent.com/107072854/213970009-ba2860fd-5dcc-4162-93fb-9f6db65f2598.png" height="20px" width="auto" />
  </h3>
 
-<h3>I'm currently a student at Alchemy in PDX, learning all aspects of software development. 🧑🏻‍💻</h3>
-<h3>I'll be graduating February 2023 with 1000+ hours of instruction and experience. ✅</h3>
+<h3>🧑🏻‍💻 I build apps with: </h3>
+<h4>In February 2023 I completed an intensive, 6-month software development bootcamp at Alchemy Code Lab in Portland, Oregon, where I gained 1000+ hours of full-stack development experience.</h4> 
+    <h3>I've worked remotely with several teams, using Agile methodologies to build applications across the software development lifecycle, from wireframing to deployment. ✅</h3>
 </div>
 
 <p align="left"><code><b>❤️ Mouse</b></code></p>
 <img src="https://user-images.githubusercontent.com/107072854/212574463-f7f88931-0928-4b18-83f0-8ba02446e2aa.jpg" height="300" width="auto" align="left" margin-right="10px" margin-left="10px" />
 <h3 margin="100px" float="right" clear="both">
-<code>You can usually find me at my desk writing code, with Mouse on her bed beside me. I spend a lot of time building apps with <b>React Three Fiber</b>, and I've recently begun a deep dive into 3D game development using the Rapier physics library.</code>
+    You can usually find me at my desk writing code, and <code>Mouse</code> is never far away! I spend much of my development time building apps with <code>React</code> and <code>React Three Fiber</code>, and I've recently begun a deep dive into 3D game development using the <code>Rapier</code> physics library. As of March 2023, I've also started learning <code>Svelte</code>!
 <p>&nbsp;</p>
-<code>After Alchemy, I'll be pursuing a role as a full stack, front-end, or game developer. I hope to be able to use my Three.js skills in my position, and will continue to build my skills in my free time. When I'm not building web applications, you can usually find me reading, playing pool, target shooting, or riding my bike.</code></h3>
+<code>I'm currently pursuing a role as a front-end or full-stack engineer, or a 3D UI/UX specialist.</code> I hope to be able to use my <code>Three.js</code> skills in a professional capacity, and will continue to develop my abilities in my free time. When I'm not building web applications, you can usually find me reading, working out, playing pool, or exploring the beautiful <code>Pacific Northwest</code> that I'm fortunate enough to live in.</h3>
 
 <p>&nbsp;</p>
 
@@ -36,8 +39,8 @@ February 2022</em></p>
 </div>
 <p>&nbsp;</p>
 
-<p align="right"><em><a href="https://idyllic-frangollo-1ec6ab.netlify.app">Play my Marble Ninja Warrior game!</a></em></p>
-<a href="https://idyllic-frangollo-1ec6ab.netlify.app"><img src="https://user-images.githubusercontent.com/107072854/213977380-395820a2-e6f6-47cf-8faf-8a8c42048fd8.png" align="right" width="45%" height="auto" border-radius="10%"/></a>
+<p align="right"><em><a href="https://marble-ninja-warrior.netlify.app">Play my Marble Ninja Warrior game!</a></em></p>
+<a href="https://marble-ninja-warrior.netlify.app"><img src="https://user-images.githubusercontent.com/107072854/213977380-395820a2-e6f6-47cf-8faf-8a8c42048fd8.png" align="right" width="45%" height="auto" border-radius="10%"/></a>
 <p>&nbsp;</p>
 <div width="20%" align="left">
     <h3><code><b>Skills and traits:</b></code></h3>
@@ -91,13 +94,14 @@ February 2022</em></p>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   7 hrs 16 mins   ███████████████████░░░░░░   75.40 %
-CSS          1 hr 36 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.73 %
-HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript   6 hrs 40 mins   █████████████████░░░░░░░░   68.36 %
+CSS          1 hr 26 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
+HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Svelte       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+JSON         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+XML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
 <!--END_SECTION:waka-->
 </div>
+
