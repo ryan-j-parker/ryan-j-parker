@@ -29,7 +29,7 @@ Taken by me, February 2022</em></p>
 <p align="left"><code><b>❤️ Mouse</b></code></p>
 <img src="https://user-images.githubusercontent.com/107072854/212574463-f7f88931-0928-4b18-83f0-8ba02446e2aa.jpg" height="300" width="auto" align="left" margin-right="10px" margin-left="10px" />
 <h4 margin="100px" float="right" clear="both">
-    You can usually find me at my desk writing code, and <code>Mouse</code> is never far away! I spend much of my development time building apps with <code>React</code> and <code>React Three Fiber</code>, and I've recently begun a deep dive into 3D game development using the <code>Rapier</code> physics library. As of March 2023, I've also started learning <code>Svelte</code>!
+    You can usually find me at my desk writing code, and <code>Mouse</code> is never far away! I spend much of my development time building apps with <code>React</code> and <code>React Three Fiber</code>, and I've recently begun a deep dive into 3D game development using the <code>Rapier</code> physics library. As of March 2023, I've also started learning <code>Svelte</code>, and am contributing to an open-source component library!
 <p>&nbsp;</p>
 <code>I'm currently pursuing a role as a front-end or full-stack engineer, or a 3D UI/UX specialist.</code> I hope to be able to use my <code>Three.js</code> skills in a professional capacity, and will continue to develop my abilities in my free time. When I'm not building web applications, you can usually find me reading, working out, playing pool, or exploring the beautiful <code>Pacific Northwest</code> that I'm fortunate enough to live in.</h4>
 
