@@ -101,12 +101,12 @@ Taken by me, February 2022</em></p>
 <!--START_SECTION:waka-->
 
 ```text
-Svelte       4 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.47 %
-JavaScript   4 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   28.19 %
-CSS          3 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
-TypeScript   1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
+Svelte       4 hrs 35 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+JavaScript   4 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+CSS          3 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.74 %
+TypeScript   1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
 JSON         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-SCSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+HTML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
 ```
 
 <!--END_SECTION:waka-->
