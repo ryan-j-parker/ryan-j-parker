@@ -3,7 +3,7 @@
 <br />
 Taken by me, February 2022</em></p>
 
-<img src="https://user-images.githubusercontent.com/107072854/228424400-5563fc34-b1c6-4ae6-9a84-afe8fa64d6bf.jpg" align="right" height="360px" width="auto" />
+<!-- <img src="https://user-images.githubusercontent.com/107072854/228424400-5563fc34-b1c6-4ae6-9a84-afe8fa64d6bf.jpg" align="right" height="300px" width="auto" /> -->
 
 <h3><code font-size="4" align="left">Hi! 👋</code></h3>
     <h3><code align="left">My name is</code></h3>
