@@ -101,10 +101,9 @@ Taken by me, February 2022</em></p>
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 22 mins   █████████████████████▒░░░   85.50 %
-HTML         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-CSS          16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JavaScript   3 hrs 35 mins   ███████████████████░░░░░░   76.16 %
+CSS          1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.36 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
 ```
 
 <!--END_SECTION:waka-->
