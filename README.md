@@ -82,7 +82,9 @@ Taken by me, February 2022</em></p>
 </div> -->
 <p>&nbsp;</p>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-j-parker&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;" align="center">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-j-parker&amp;layout=compact&amp;theme=tokyonight" style="max-width: 100%;" align="center"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=ryan-j-parker&show_icons=true&theme=transparent" />
+
 </div>
 <p>&nbsp;</p>
 
