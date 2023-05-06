@@ -13,7 +13,7 @@
     <h5>I've collaborated remotely with several teams, using Agile methodologies to build full-stack applications across the software development lifecycle, from wireframing to deployment. ✅</h5>
 </div>
 
-<h5>I'm currently pursuing a role as a front-end or full-stack engineer. I really enjoy working with <code>Three.js</code> to develop immersive 3D user experiences. I'm constantly building my skills and developing new ones, and what I don't yet know, I know how to learn!</h5>
+<h5>I'm currently pursuing a role as a front-end or full-stack engineer. I really enjoy working with <code>Three.js</code> to develop immersive 3D user experiences. I'm constantly building my skills and developing new ones, and what I don't yet know, I know how to learn! 🌱</h5>
 
 <p>&nbsp;</p>
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ryan-j-parker/ryan-j-parker?color=00af54&label=last%20updated" align="right" />
