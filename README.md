@@ -6,11 +6,11 @@
 </div>
 <div align="left">
 <h5>
-    I'm a full-stack software engineer from Vancouver, WA. I'm passionate about creating 3D environments and bringing digital experiences to life. 🧑🏻‍💻
+    I'm a full-stack software engineer from Vancouver, WA who's passionate about bringing digital experiences to life and creating 3D environments. I primarily build with React, Next.js, Express.js, Node.js, SQL, and Three.js. 🧑🏻‍💻
 </h5>
     
 <h5>
-    With a background in arts, I apply this creativity to software development. I'm proficient in Adobe Creative Cloud tools including Photoshop, Illustrator, Premiere Pro, and XD. My expertise extends to eCommerce and AI tools, which I utilize to create printable art for sale on Etsy. ✅
+    I apply my background in the arts to software development, and am proficient in Adobe Creative Cloud tools including Photoshop, Illustrator, Premiere Pro, and XD. My expertise extends to eCommerce and AI tools, which I utilize to create printable art for sale on Etsy. ✅
 </h5>
 </div>
 
