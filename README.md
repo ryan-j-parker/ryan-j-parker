@@ -10,6 +10,6 @@
 </h4>
     
 <h4>
-    I apply my background in the arts to software development, and am proficient in the Adobe Creative Cloud suite of tools, particularly <code>Photoshop</code>, <code>Illustrator</code>, <code>Premiere Pro</code>, and <code>XD</code>. My expertise extends to eCommerce and AI tools as well, which I utilize to create printable art for sale on Etsy and Society6. ✅
+    I apply my background in the arts to software development, and am proficient in the Adobe Creative Cloud suite of tools, particularly <code>Photoshop</code>, <code>Illustrator</code>, and <code>Premiere</code>. My expertise extends to eCommerce and AI tools as well, which I utilize to create printable art for sale on Etsy and Society6. ✅
 </h4>
 </div>
