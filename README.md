@@ -6,7 +6,7 @@
 </div>
 <div align="left">
 <h4>
-    I'm a full stack software developer from Pacific Grove, CA who's passionate about bringing digital experiences to life and creating immersive 3D environments. I primarily build with <code>React</code>, <code>Next.js</code>, <code>Express.js</code>, <code>Node.js</code>, <code>SQL</code>, and <code>Three.js</code>. 🧑🏻‍💻
+    I'm a full stack software developer based in Okinawa, Japan who's passionate about bringing digital experiences to life and creating immersive 3D environments. I primarily build with <code>React</code>, <code>Next.js</code>, <code>Express.js</code>, <code>Node.js</code>, <code>SQL</code>, and <code>Three.js</code>. 🧑🏻‍💻
 </h4>
     
 <h4>
