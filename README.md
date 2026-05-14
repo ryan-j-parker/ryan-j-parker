@@ -1,4 +1,4 @@
-![Banner](./okinawa_cover.png)
+![Banner](https://raw.githubusercontent.com/ryan-j-parker/ryan-j-parker/main/okinawa_cover.png)
 
 <div align="left">
     <h3> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage" height="20px" width="auto"> My name is </h3>
